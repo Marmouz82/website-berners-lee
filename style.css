@@ -98,7 +98,15 @@ li
 h2
 {
     font-size: 1.5em;
+    font-weight: bold;
     text-align: center;
+}
+
+.h2_2
+{
+    font-size: 2em;
+    margin-top: 50px;
+    margin-bottom: 100px;
 }
 
 mark
@@ -128,7 +136,7 @@ h3
 
 a 
 {
-    color: gray;
+    color: lightgray;
     text-decoration: none;
     font-weight: bold;
 }
@@ -150,4 +158,9 @@ a
 .movie_title
 {
     display: ;
+}
+
+.sfy
+{
+    color:white;
 }
